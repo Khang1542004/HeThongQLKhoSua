@@ -5,13 +5,12 @@
 - **Lớp:** 48K21.2  
 - **Nhóm:** 48K212.07
 
-| Họ và Tên              | MSSV          |
-|------------------------|---------------|
-| Nguyễn Trọng Khang     | 221121521219  |
-| Nguyễn Võ Ngọc Nhi     | 221121521231  |
-| Ngô Văn Thịnh          | 221121521244  |
-| Nguyễn Thị Tú Trinh    | 221121521256  |
-| Nguyễn Thị Xuân        | 221121521262  |
+### Thành viên:
+- Nguyễn Trọng Khang  
+- Nguyễn Võ Ngọc Nhi  
+- Ngô Văn Thịnh  
+- Nguyễn Thị Tú Trinh  
+- Nguyễn Thị Xuân
 
 ---
 
